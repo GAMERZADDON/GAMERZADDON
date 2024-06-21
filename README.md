@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GAMERZADDON
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on N/A
